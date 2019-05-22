@@ -1,0 +1,1 @@
+used openpyxl to read excel data and json library to write data into text file in json format
